@@ -16,7 +16,7 @@ nav {
 nav a {
     color: rgb(200 200 230);
     padding: 2px;
-    display: grid;
+    display: block;
 }
 
 aside {
