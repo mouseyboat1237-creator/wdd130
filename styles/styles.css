@@ -19,6 +19,10 @@ nav a {
     display: block;
 }
 
+h1 {
+    color: #333;
+}
+
 aside {
     width: 20rem;
     margin: 1rem;
