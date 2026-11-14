@@ -8,6 +8,11 @@ main {
     max-width: 840px;
 }
 
+nav {
+    padding: 1rem;
+    background-color: bisque;
+}
+
 aside {
     width: 20rem;
     margin: 1rem;
